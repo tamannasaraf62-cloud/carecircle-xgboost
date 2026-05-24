@@ -1,0 +1,4 @@
+timestamp,symptoms,location,top_disease,top_specialist,risk_level
+2026-05-24 09:26:25,"chest_pain
+skin_rash
+high_fever",Delhi,Jaundice,Dermatologist,HIGH
