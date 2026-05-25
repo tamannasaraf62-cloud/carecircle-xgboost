@@ -80,6 +80,8 @@ carecircle_xgboost/
 
 ## CareCircle Chatbot Assistant
 
+## CareCircle Chatbot Assistant
+
 This module provides a lightweight healthcare chatbot using FastAPI and Streamlit.
 
 ### Features
@@ -98,15 +100,11 @@ This module provides a lightweight healthcare chatbot using FastAPI and Streamli
 cd chatbot/backend
 pip install fastapi uvicorn streamlit requests
 python -m uvicorn app:app --reload
+```
 
+### Run Chatbot Frontend
 
----
-
-## Step 4
-
-Scroll down.
-
-In commit message write:
-
-```text
-Updated README with chatbot setup
+```bash
+cd chatbot/backend
+streamlit run streamlit_app.py
+```
