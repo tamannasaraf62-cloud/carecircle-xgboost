@@ -77,3 +77,36 @@ carecircle_xgboost/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## CareCircle Chatbot Assistant
+
+This module provides a lightweight healthcare chatbot using FastAPI and Streamlit.
+
+### Features
+- Emergency detection
+- Queue tracking
+- Appointment support
+- Doctor recommendation
+- Hospital navigation
+- Billing and insurance support
+- Lab report support
+- Invalid query handling
+
+### Run Chatbot Backend
+
+```bash
+cd chatbot/backend
+pip install fastapi uvicorn streamlit requests
+python -m uvicorn app:app --reload
+
+
+---
+
+## Step 4
+
+Scroll down.
+
+In commit message write:
+
+```text
+Updated README with chatbot setup
