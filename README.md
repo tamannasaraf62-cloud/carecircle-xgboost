@@ -80,8 +80,6 @@ carecircle_xgboost/
 
 ## CareCircle Chatbot Assistant
 
-## CareCircle Chatbot Assistant
-
 This module provides a lightweight healthcare chatbot using FastAPI and Streamlit.
 
 ### Features
