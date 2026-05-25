@@ -3,3 +3,5 @@ timestamp,symptoms,location,top_disease,top_specialist,risk_level
 skin_rash
 high_fever",Delhi,Jaundice,Dermatologist,HIGH
 2026-05-24 09:53:03,chest_pain breathlessness sweating,Delhi,Heart attack,Cardiologist,HIGH
+2026-05-24 10:00:50,chest_pain breathlessness sweating,Delhi,Heart attack,Cardiologist,HIGH
+2026-05-24 10:12:10,chest_pain breathlessness sweating,Delhi,Heart attack,Cardiologist,HIGH
