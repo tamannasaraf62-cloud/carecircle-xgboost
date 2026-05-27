@@ -1,0 +1,11 @@
+symptoms,disease,specialization,doctor_name
+fever cough tiredness,flu,General Physician,Dr. Sharma
+chest pain breathlessness sweating,heart problem,Cardiologist,Dr. Mehta
+skin rash itching redness,skin allergy,Dermatologist,Dr. Rao
+headache vomiting sensitivity to light,migraine,Neurologist,Dr. Iyer
+joint pain swelling stiffness,arthritis,Orthopedic,Dr. Khan
+stomach pain nausea acidity,gastritis,Gastroenterologist,Dr. Patel
+tooth pain gum bleeding,dental problem,Dentist,Dr. Verma
+eye pain blurry vision redness,eye infection,Ophthalmologist,Dr. Nair
+anxiety sadness sleep problem,mental health issue,Psychiatrist,Dr. Sen
+pregnancy pain bleeding,pregnancy issue,Gynecologist,Dr. Kapoor
